@@ -6,7 +6,7 @@
 ## Features
 
 - **Basic Arithmetic**: Supports addition, subtraction, multiplication, and division.
-- **Variables Support**: Includes predefined constants like `pi` and `e`, and allows custom variables.
+- **Variables Support**: Includes predefined constants like `pi` and `e`.
 - **Error Handling**: Graceful error handling for invalid input and unknown variables.
 
 
