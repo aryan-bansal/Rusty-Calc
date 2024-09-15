@@ -15,7 +15,7 @@
 To clone the repository and run Rusty Calc on your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Rusty-Calc.git
+git clone https://github.com/aryan-bansal/Rusty-Calc.git
 cd Rusty-Calc
 cargo build
 cargo run
