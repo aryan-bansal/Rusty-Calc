@@ -1,4 +1,4 @@
-use crate::token_module::{OperatorType, Token};
+use super::token_module::{OperatorType, Token};
 
 fn get_precedence(operator: &OperatorType) -> u8 {
     match operator {

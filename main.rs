@@ -1,12 +1,11 @@
-mod lexer_module;
-mod postfix_module;
-mod token_module;
+mod source;
 
 use std::collections::HashMap;
 use std::io::stdin;
-use lexer_module::Lexer;
-use postfix_module::shunting_yard;
-use token_module::{OperatorType, Token};
+use source::lexer_module::Lexer;
+use source::postfix_module::shunting_yard;
+use source::token_module::{OperatorType, Token};
+
 
 fn main() {
     let mut input_string = String::new();

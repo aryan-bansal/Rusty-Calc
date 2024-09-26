@@ -7,4 +7,4 @@ edition = "2021"
 
 [[bin]]
 name = "Rusty_Calc"
-path = "source/main.rs"
+path = "main.rs"
